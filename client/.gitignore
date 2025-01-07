@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Client build artifacts (if you run `npm run build` in the client folder)
+client/build/
+
+# Backup and temporary files
+*.bak
+*.tmp

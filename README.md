@@ -94,3 +94,9 @@ Reload the page to retrieve the saved document.
 
 This project is licensed under the MIT License.
 
+**Screenshots**:
+![Image](https://github.com/user-attachments/assets/fc921859-5f0d-4974-90c8-834c2ca738fe)
+![Image](https://github.com/user-attachments/assets/a6777df9-1a9d-473e-8f9a-30f151275022)
+![Image](https://github.com/user-attachments/assets/194b3195-cb01-4a01-91ef-c0a222a31d87)
+![Image](https://github.com/user-attachments/assets/3eacd69e-a121-47a4-931a-22bb66457781)
+![Image](https://github.com/user-attachments/assets/22674469-abdf-4be7-80c1-09b47228f37e)
